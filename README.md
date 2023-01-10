@@ -1,5 +1,4 @@
 # FamilyExpenses
-#### Family Expenses App is web app and mobile app.
 
 #### Family Expenses App is web app and mobile app.
 
